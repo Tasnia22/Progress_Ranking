@@ -20,5 +20,6 @@ samples, guidance on mobile development, and a full API reference.
 ## App Screens
 
 <p align="center">
-  <img src="ss.jpeg" width="300" title="Home Screen">
+  <img src="ss/ss.jpeg" width="300" title="Home Screen">
 </p>
+
